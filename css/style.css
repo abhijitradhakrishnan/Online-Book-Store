@@ -472,7 +472,7 @@ section {
 
 /* newsletter section  */
 .newsletter {
-    background: url(../images/letter-bg.jpg) no-repeat;
+    background: url(../images/letter-bg.png) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
